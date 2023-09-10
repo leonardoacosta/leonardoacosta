@@ -3,6 +3,8 @@
 [![LeonardoAcosta.dev](https://img.shields.io/badge/Personal%20Site-EE3E5D?style=flat-square)](leonardoacosta.dev)
 [![modernvisa.com](https://img.shields.io/badge/ModernVisa-231DA1F2?style=flat-square)](modernvisa.com)
 
+[![sethajones.com](https://img.shields.io/badge/Seth_Jones-8A2BE2?style=flat-square)](sethajones.com)
+
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
