@@ -1,7 +1,7 @@
 
 ## 🔨 Things I've Made
-[![LeonardoAcosta.dev](https://img.shields.io/badge/Personal%20Site-EE3E5D?style=flat-square)](https://leonardocosta.dev)
-[![modernvisa.com](https://img.shields.io/badge/ModernVisa-231DA1F2?style=flat-square)](https://modernvisa.com)
+[![LeonardoAcosta.dev](https://img.shields.io/badge/Personal%20Site-EE3E5D?style=flat-square)](leonardoacosta.dev)
+[![modernvisa.com](https://img.shields.io/badge/ModernVisa-231DA1F2?style=flat-square)](modernvisa.com)
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -105,9 +105,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=leonardoacosta&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=leonardoacosta&count_private=true&theme=radical" />
